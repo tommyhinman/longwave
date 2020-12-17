@@ -1,3 +1,5 @@
+Fork of https://github.com/cynicaloptimist/longwave . I've replaced the firebase configuration with a copy I set up myself, since their server was getting overloaded. However there's no guarantee mine won't get full as well, especially since there's no auth and the credentials are public in this repo. I don't think there's a security risk here -- worst case I get throttled at the free tier -- but at some point it would be great to set this up properly.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
